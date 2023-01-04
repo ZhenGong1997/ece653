@@ -1,0 +1,41 @@
+ghub: ''
+url: ist-git@git.uwaterloo.ca:stqam-1221/class/z33gong
+student: 20673670
+watiam: z33gong
+total_marks: 40.0
+1a:
+  mark: 0
+  comments: |
+    none
+2a:
+  mark: 5.0
+  comments: |
+    Marking automated
+2b:
+  mark: 5.0
+  comments: |
+    Marking automated
+3a:
+  mark: 15.0
+  comments: |
+    Marking automated
+3b:
+  mark: 15.0
+  comments: |
+    Marking automated
+4a:
+  mark: 0
+  comments: |
+    Marking automated; Code is too close to master solution
+4b:
+  mark: 0
+  comments: |
+    Marking automated
+4c:
+  mark: 0
+  comments: |
+    Marking automated
+4d:
+  mark: 0
+  comments: |
+    Marking automated

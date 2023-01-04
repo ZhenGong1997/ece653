@@ -1,0 +1,11 @@
+_comment: all marks out of 100, zz_mark = (a1+a1+a3)*.30 + fb*.05 + (q1+q2)*.20 +
+  (xx_proj)*.20 + yy_exam*.25
+a1: 97.7
+a2: 122.0
+a3: 100.0
+fb: 90.0
+q1: 95.7
+q2: 88.2
+xx_proj: 85.0
+yy_exam: 62.0
+zz_mark: 87.4

@@ -1,0 +1,78 @@
+ghub: ''
+url: ist-git@git.uwaterloo.ca:stqam-1221/class/z33gong
+student: 20673670
+watiam: z33gong
+late:
+  count: 0
+total_marks: 68.4
+1a:
+  mark: 2
+  comments: |
+    none
+1b:
+  mark: 2
+  comments: |
+    none
+1c:
+  mark: 2
+  comments: |
+    none
+1d:
+  mark: 1.5
+  comments: |
+    pc should be at line 8. In a correct program, the values of q and p1 should be different.
+1e:
+  mark: 2
+  comments: |
+    none
+2a:
+  mark: 3
+  comments: |
+    none
+2b:
+  mark: 4
+  comments: |
+    none
+2c:
+  mark: 4
+  comments: |
+    none
+2d:
+  mark: 4
+  comments: |
+    none
+3b:
+  mark: 6
+  comments: |
+    none
+3c:
+  mark: 2.5
+  comments: |
+    Should focus on information about the expected program behaviour.
+3a:
+  mark: 6.0
+  comments: |
+    coverage: 3.0/3;mutation: 3/3
+    Marking partially automated
+4a:
+  mark: 10.0
+  comments: |
+    Lack of coverage explanation: none
+
+    Marking partially automated
+4b:
+  mark: 4
+  comments: |
+    Lack of coverage explanation: none
+
+    Marking partially automated
+4c:
+  mark: 6.4
+  comments: |
+    Marking automated
+4d:
+  mark: 9.0
+  comments: |
+    Marking automated
+stats_visitor_tests: 19/26
+undef_visitor_tests: 10/10

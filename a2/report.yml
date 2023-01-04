@@ -1,0 +1,65 @@
+ghub: ''
+url: ist-git@git.uwaterloo.ca:stqam-1225/class/z33gong
+student: 20673670
+watiam: z33gong
+late:
+  count: 0
+wrong_user_yml:
+  penalty: 0
+total_marks: 42.0
+1a:
+  mark: 0
+  comments: |
+    none
+1b:
+  mark: 0
+  comments: |
+    none
+1c:
+  mark: 0
+  comments: |
+    none
+2a:
+  mark: 0
+  comments: |
+    none
+2b:
+  mark: 0
+  comments: |
+    none
+2d:
+  mark: 0
+  comments: |
+    none
+2e:
+  mark: 0
+  comments: |
+    none
+3c:
+  mark: 2
+  comments: |
+    none
+4e:
+  mark: 3
+  comments: |
+    none
+3b:
+  mark: 10.0
+  comments: |
+    Marking automated
+4a:
+  mark: 6.0
+  comments: |
+    Marking automated
+4b:
+  mark: 6.0
+  comments: |
+    Marking automated
+4c:
+  mark: 12.0
+  comments: |
+    Marking automated
+4d:
+  mark: 3
+  comments: |
+    Marking automated
